@@ -2,7 +2,7 @@
 > Outline a brief description of your project.
 
 
-## Table of Contents# Lending Club Case Study
+## Table of Contents
 
 Lending Club, a consumer finance marketplace specializing in offering a variety of loans to urban customers, faces a critical challenge in managing its loan approval process. When evaluating loan applications, the company must make sound decisions to minimize financial losses, primarily stemming from loans extended to applicants who are considered "risky."
 
