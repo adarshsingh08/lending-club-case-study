@@ -77,4 +77,4 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 
 ## Collaborators
 
-Created by [@akashkriplani](https://github.com/akashkriplani) and [@sharmaankit091](https://github.com/sharmaankit091)
+Created by [Adarsh Singh]([https://github.com/adarshsingh08]) and [Sudershan Chavan]([https://github.com/SudarshanChavan13])
